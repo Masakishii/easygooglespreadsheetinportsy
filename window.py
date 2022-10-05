@@ -187,7 +187,7 @@ entry8.place(
 
 canvas.create_text(
     208.0, 30.0,
-    text = "名誉ポイント管入力フォーム",
+    text = "ポイント管入力フォーム",
     fill = "#000000",
     font = ("None", int(30.0)))
 
@@ -217,31 +217,31 @@ canvas.create_text(
 
 canvas.create_text(
     125.0, 335.0,
-    text = "烈火陣営",
+    text = "df",
     fill = "#000000",
     font = ("None", int(30.0)))
 
 canvas.create_text(
     332.0, 335.0,
-    text = "大地陣営",
+    text = "sh",
     fill = "#000000",
     font = ("None", int(30.0)))
 
 canvas.create_text(
     539.0, 334.0,
-    text = "狂風陣営",
+    text = "rv",
     fill = "#000000",
     font = ("None", int(30.0)))
 
 canvas.create_text(
     742.0, 335.0,
-    text = "怒涛陣営",
+    text = "jk",
     fill = "#000000",
     font = ("None", int(30.0)))
 
 canvas.create_text(
     126.0, 81.0,
-    text = "軍団ポイント",
+    text = "adポイント",
     fill = "#000000",
     font = ("None", int(30.0)))
 
