@@ -5,6 +5,7 @@ import pandas as pd
 import gspread
 from oauth2client.service_account import ServiceAccountCredentials
 import re
+#For game point management
 #Comments are written in Japanese for policy reasons.
 #windows osで動かすことが前提
 dir_f_01 = os.path.dirname(os.path.abspath(__file__))
